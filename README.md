@@ -1,4 +1,4 @@
-This is a end to end Car Price Prediction Project ### Hi there 👋
+This is a end to end Car Price Prediction Project
 
 <!--
 **AnkitaSaha2023/AnkitaSaha2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
